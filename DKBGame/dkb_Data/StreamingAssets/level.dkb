@@ -1,0 +1,3 @@
+OBJ,2,0.7,0.3,0,0,2,0,1,2,1,0,0,0,frozen,Trunk
+OBJ,3,0.1,0.9,0.1,0,4,0,2,2,2,0,0,0,frozen,Leaves
+OBJ,0,1,0,0,0,0.25,-5,2,0.5,1,0,0,0,frozen_kill,KillBrick
